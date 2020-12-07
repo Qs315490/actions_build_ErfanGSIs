@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://us-dl.mokeedev.com/firmware/TUs5MC4wLWphc29uLTIwMTEzMC1SRUxFQVNFLnppcHxmaXJtd2FyZXwxNjA3MzY5ODY3/MK90.0-jason-201130-RELEASE.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
